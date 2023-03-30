@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343915253895",
+    "project_id": "urbanclone-31a16",
+    "storage_bucket": "urbanclone-31a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343915253895:android:ea6a98ab096564f9bde822",
+        "android_client_info": {
+          "package_name": "com.urban.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343915253895-9eqd1bj86tu7mltnatugjgtpbsup70ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urban.clone",
+            "certificate_hash": "96b17b5926351bb84555c707e83294f1c86816d0"
+          }
+        },
+        {
+          "client_id": "343915253895-ok3l39d33sgjcsa2inct36o633jj0tvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTxBrwd4fb7Noi90l8K9sxfh0D6d2nOJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343915253895-ok3l39d33sgjcsa2inct36o633jj0tvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
